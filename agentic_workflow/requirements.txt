@@ -1,0 +1,6 @@
+langchain
+chromadb
+transformers
+networkx
+PyPDF2
+streamlit
